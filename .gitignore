@@ -1,4 +1,9 @@
 linklet-backups/
 fp-info-cache
-*.lck
+hardware/*.lck
 production/backups/
+firmware/.cache/
+hardware/.cache/
+firmware/**/.cache/
+hardware/**/.cache/
+firmware/build/
