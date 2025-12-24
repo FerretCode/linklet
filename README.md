@@ -2,6 +2,8 @@
 
 A modular, LoRa enabled sensor bus
 
+![Linklet Board](./img/board.jpg)
+
 ## Overview
 
 - Linklet is an custom PCB design with an STM32 and RFM69HCW LoRa modules for sensing and IoT operations
